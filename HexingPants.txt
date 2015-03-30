@@ -1,0 +1,386 @@
+This is my attempt at a Season 2 non-set based (meaning no 6-piece required or focused) Fire Hexing Pants build. Please note I am just a very casual player who plays more for theorycrafting rather than pushing GR ranks. 
+
+^yes ^i ^copied ^the ^formatting ^from ^the ^condemn ^guide 
+
+^/u/Epixors ^has ^excellent ^formatting ^skills. 
+
+#Gear to Look For
+
+For further explanation, see the gear setup section.
+
+Slot|Choice #1|Choice #2|Choice #3
+:-:|:-:|:-:|:-:|
+Head| Andariel's Visage|Leoric's Crown|Pride's Fall
+Shoulders|Pauldrons of Akkhan|-|-
+Amulet|Hellfire Amulet|Immunity Amulet|Traveler's Pledge
+Chest|Cindercoat|Breastplate of Akkhan|-
+Bracers|Reaper's Wraps|Strongarm Bracers|Krelm's Buff Bracers
+Gloves|Magefist|-|-
+Belt|Belt of the Trove|The Witching Hour|-
+Legs|Hexing Pants of Mr. Yan|-|-
+Feet|Illusory Boots|-|-
+Rings|Unity/Restraint|Stone of Jordan/Focus|Compass Rose
+Weapon|Blade of Prophecy|Maximus|-
+Shield|Frydehr's Wrath|-|-
+
+# Introduction
+The idea of this build came around when Kadala gave me a decent pair of Hexing Pants while I was trying to roll for Rolands. I main Crusader, so I was trying to think of ways to use these pants without focusing on Akkhan's and/or stutterstepping. The first thought that came to mind was a Condemn build since it is one of the few spells that can be cast without stopping while running, this led to Frydehr's Wrath being required. While testing the build, running into enemies threw off my grove, which led to the need for Illusory Boots. 
+
+Like I said before, I focus on theorycrafting builds that do not require sets. I don't mind being mediocre in terms of GR rank if I can just have fun trying new ideas. 
+
+I will discuss the Legendary Gems below that synergize well with the build. 
+
+If you want you can inspect [my profile](http://us.battle.net/d3/en/profile/woppels-1850/hero/57737715) here.
+
+It's important to note that Hexing Pants are not necessarily required to attempt this build, but your damage output will be greatly affected without them. 
+
+I will discuss the build in this order:
+
+* Skill Setups
+* Gear Setups
+* Legendary Gems
+* Paragon Points
+* Playstyle and Tips
+
+# 1. Skill setups
+I am a huge fan of fire based skills on the Crusader and roll with a fire sader on ns. I love that you can stack fire like crazy and was hoping to reflect this using these pants and Frydehr's wrath. The Belt of the Trove is just a bonus since it's free Bombardments every 6-8 seconds and it is buffed by all of your %fire damage. 
+
+What you want to focus on for skills for this is: 
+
+* Akarat's Champion - Prophet
+* Laws of Justice - Immovable Object OR Laws of Valor - Unstoppable Force
+* Condemn - Reciprocate
+* Provoke - Cleanse
+* Shield Glare - Zealous Glare
+* Bombardment - Annihilate (if you have Belt of the Trove) / Free Slot
+
+and the passives (with Hellfire Amulet):
+
+* Finery
+* Indestructible
+* Long Arm of the Law
+* Heavenly Strength
+* Holy Cause
+
+##Active Skills
+###Akarat's Champion - Prophet
+
+This is pretty self-explanatory. With the Illusory Boots you're going to be running INTO mobs to best utilize Condemn. Prophet increases your toughness and gives you a second life with each activation. 
+
+###Laws of Justice - Immovable Object OR Laws of Valor - Unstoppable Force
+
+Right now I am using Laws of Justice to buff my Toughness, but if you are a bit more reckless Laws of Valor is a valid choice as well. If you feel your Toughess is lacking, roll with Justice, otherwise Valor should be fine. Long Arm of the Law will help in either case. 
+
+###Condemn - Reciprocate
+
+This is your bread and butter. I chose the Reciprocate rune because this is a fire build and your main spender should be fire based. This build may be tweaked for a Physical variant (so that Vacuum may be used), but I have not yet seriously thought of that yet. A small bonus is that since you're running into mobs to do the damage with the Illusory Boots, Reciprocate should do some extra damage. 
+
+
+###Provoke
+
+Provoke is absolutely necessary for maintaining your Wrath. I found for greedy DPS, Charged Up is useful, but for healing Cleanse is your best bet. If you find yourself dying too often or running low on health, Cleanse is your best option. Otherwise, if you feel safe, go with Charged Up. 
+
+###Shield Glare - Zealous Glare
+
+This is another way to maintain your Wrath and have some sort of crowd control. The Zealous Glare rune helps with Wrath if you are starved. 
+
+###Bombardment - Annihilate /  Generator
+
+If you have Belt of the Trove, Bombardment is good for dealing with pesky enemies who like to run away or for times between Condemn casting. It also helps a great deal with RGs and trash. One of the issues with this build is with single target damage during times of low Wrath. 
+
+If you **do not** have belt of the trove, a generator will probably be your best choice. Even though your damage will be decreased by Hexing Pants while generating Wrath, you will still be generating wrath. 
+
+Personally I use Punish - Roar as a generator. If you feel you need more armor use Slash - Guard.
+
+This is where some people will vary depending on their playstyle. Viable choices are:
+
+
+&gt;* Shield Glare - Divine Verdict
+* Iron Skin - Flash
+* Iron Skin - Steel Skin
+* Judgement - Resolved
+
+*Iron Skin - Flash* is a very strong choice if you often get stuck while sucking in mobs with Vacuum. Flash lets you move through enemies unhindered clearing the way if you don't have Illusory Boots.
+
+*Iron Skin - Steel Skin* is for those who have problems surviving but not with movement.
+
+*Shield Glare - Divine Verdict* is for those who want more DPS and utility in the same slot. A well-timed Shield Glare can actually give a lot of survivability, especially when interrupting the Rift Guardian's attack.
+
+*Judgement - Resolved* is an option some people use because it's both a very strong buff and fits *Condemn - Vacuum* like a glove, however I am not a big fan of this as I feel Divine Verdict does the job better for providing offensive buffs.
+
+##Passive Skills
+Passive skills are fairly self-explanatory, so I will not go too much in-depth, however it should be noted that a *Hellfire Amulet* is in my opinion the strongest option in an amulet slot, five passives for a Crusader is invaluable.
+
+**Indestructible**
+
+Obvious choice, a death in a GRift can ruin your time, and this combined with *Akarat's Champion - Prophet* makes it so you can take a lot of shit before you die.
+
+**Finery**
+
+Before the Legendary Gem patch this was already a very strong choice, but now that an average Crusader has 10 gems socketed (or 11 if you have it in a shield) this is a gigantic boost in toughness and damage.
+
+**Long Arm of the Law**
+
+Without this passive, *Laws of Valor - Unstoppable Force* becomes quite a bit weaker and you may encounter wrath issues.
+
+**Heavenly Strength**
+
+Without Blade of Prophecy and Frydehr's Wrath you simply can't play this build, making *Heavenly Strength* required.
+
+**Holy Cause**
+
+A straight up 10% damage boost and free healing, arguably one of the strongest passives in the Crusader skill set.
+
+**To HF or not to HF**
+
+If you do not have a Hellfire Amulet you will have to drop one of these passives. My personal preference is to drop Holy Cause and keep the comfortable wrath management of *Long Arm of the Law*. However, if you are very good at managing your wrath you can also drop Long Arm of the Law as pointed out by KFC (/u/TheHenanist)
+
+## 2. Gear Setups
+The optimal setup for a Condemn build would be:
+
+
+&gt;* Full Akkhan Set
+* Vigilante Belt
+* 8% CDR Unity &gt; 8%CDR Holy SoJ&gt; 8% CDR Bul-Kathos's Wedding Band &gt; 8% CDR RoRG
+* Blade of Prophecy
+* Frydehr's Wrath
+* Hellfire Amulet
+* Strongarm Bracers
+
+For this setup, you need perfect cooldown reduction rolls on everything. The general consensus is that a Holy *Stone of Jordan* will beat a *Bul-Kathos's Wedding Band* at the Rift Guardian, I can not test this however because I do not have a 8% CDR Holy *Stone of Jordan* with a socket.
+
+There are however a few viable variations on this setup, namely:
+
+**Illusory Boots setup**
+
+It's hard to move with *Condemn - Vacuum* sometimes, and *Illusory Boots* will solve this problem. The setup now changes so that:
+
+
+&gt;* 5-piece Akkhan
+* Illusory Boots
+* 8% CDR Unity + 8% CDR RoRG
+
+This setup allows you to move freely, increasing both your survivability and effective damage.
+
+**Leoric's Crown + Witching Hour setup**
+
+This is the setup with which I reached my latest top clear. I am not running this because I believe it's superior, but because it's the gear I have right now. With a good *Leoric's Crown* you can drop *Vigilante Belt* for a *Witching Hour* for a noticeable DPS increase (in my case ~12%). The setup now changes so that:
+
+
+&gt;* 5-piece Akkhan
+* Leoric's Crown
+* Witching Hour
+* 8% CDR Unity + 8% CDR RoRG
+
+You can also do this to drop cooldown reduction elsewhere, like on your rings or shield.
+
+Personally I prefer the *Leoric's Crown* setup over the *Illusory Boots* setup in terms of killing power on a good map. *Illusory Boots* is however a safer bet on the survivability side.
+
+**Amulets**
+
+Thanks to KFC for pointing this one out, I completely forgot about *The Flavor of Time* in the first write-up of this guide. Personally I still believe that a Hellfire Amulet is stronger than a *Flavor of Time*, though I can't say I have tested it. If you have a good *Flavor of Time* it is definitely a very strong option as you can use the extra primary to drop CDR from a different slot like a belt or ring for CHD.
+
+I suggest *Xephirian Amulet* because it is, for me, the most helpful immunity necklace in the game. It is however a stepping-stone to getting a better item. Any other good necklace will still do.
+
+##Priorities
+
+**Regular Gems**
+
+Ruby &gt; Diamond
+If you have trouble surviving considering switching two gems from your pants to all res gems. (thanks to /u/Octopotamus5000 for reminding me)
+
+**Helm**
+
+Primary: Socket &gt; STR &gt; Crit Chance &gt; Vit
+
+Secondaries: LC Legendary Affix &gt; Secondary Resist &gt; Pickup Radius
+
+**Shoulders**
+
+Primary: CDR &gt; STR &gt; Condemn% Damage &gt; Vit/All Res
+
+Secondary: Pickup Radius &gt; HG Bonus
+
+
+**Gloves**
+
+Primary: CDR &gt; Crit Damage &gt; Crit Chance &gt; STR
+
+Secondary: Secondary Resist &gt; Stun on Hit &gt; Pickup Radius
+
+**Chest**
+
+Primary: 3 sockets &gt; STR &gt; Condemn Damage% &gt; Vitality
+
+Secondary: Damage Reduction &gt; Secondary Resist
+
+**Pants**
+
+Primary: 2 sockets &gt; STR &gt; Vit &gt; All Res/Life per Second
+
+Secondary: Secondary Resist
+
+**Boots**
+
+Primary: STR &gt; Vit &gt; All Res &gt; Life per Second &gt; Movement Speed &gt; Armor
+
+Secondary: Secondary Resist
+
+**Rings**
+
+Primary: Socket &gt; CDR &gt; Holy% Damage &gt; Crit Damage &gt; Crit Chance &gt; Strength &gt; Attack Speed
+
+Secondary: Secondary Resist
+
+**Belt**
+
+Primary: CDR (Vigilante) &gt; Crit Damage (Witching Hour) &gt; STR &gt; Vit &gt; All Res &gt; Life % &gt; Attack Speed
+
+Secondary: Secondary Resistance, Life after Kill
+
+**Bracers**
+
+Primary: Holy% Damage &gt; STR &gt; Crit &gt; Legendary Affix &gt; Vit
+
+Secondary: Damage Reduction % &gt; Secondary Resist
+
+**Amulet**
+
+Primary: Socket &gt; Crit Damage &gt; Crit Chance &gt; Holy %Damage &gt; STR
+
+Secondary: Legendary Affix &gt; Secondary Resist
+
+**Weapon**
+
+Primary: CDR (min 8%) &gt; STR &gt; Damage%/Damage Range
+
+Secondary: Life after Kill &gt; Stun/Freeze on Hit
+
+**Shield**
+
+Primary: CDR/Crit &gt; STR &gt; Condemn% Damage &gt; Vit
+
+Secondary: Damage% Reduction &gt; Secondary Resist
+
+## 3. Legendary Gems
+
+&gt;* Mirinae, Teardrop of the Starweaver
+* Bane of the Trapped
+* Taeguk
+* Gogok of Swiftness 
+
+
+Your most important gem is *Mirinae, Teardrop of the Starweaver*. This gem is a HUGE chunk of your damage and is especially important in single-target situations where Condemns damage drops down a lot. I recommend leveling this gem as high as you can.
+
+Your second gem will be *Bane of the Trapped*. This gem is a top-level category damage modifier, meaning that it's an absolute x% damage increase. If you did 100m damage, and your *Bane of the Trapped* provides 30% more damage, you will deal 130m damage. Very powerful and the secondary effect's AoE fits *Condemn - Vacuum* like a glove.
+
+Your third gem will be *Taeguk*. This gem is not a top-level category damage modifier, it stacks with your elemental damage, elite damage, etc. However at full stacks it gives a lot of bonus damage% and toughness through the secondary affix unlocked at rank 25.
+
+If you are still gearing up and lack Cooldown Reduction, you can swap *Taeguk* for a *Gogok of Swiftness* with at least rank 25 so you get 15% CDR from it. If this is the case for you you'll be swapping out *Taeguk*.
+
+## Paragon Points
+**Paragon Priorities**
+Top-to-bottom are your highest to your lowest priorities per category.
+
+Core|Offense|Defense|Utility
+:--|:--|:--|:--
+Strength|Cooldown Reduction|Resist All|Area Damage
+Movement Speed|Crit Damage|Life|Resource Cost Reduction
+Vitality|Crit Chance|Armor|Life on Hit
+Maximum Wrath|Attack Speed|Life per Second|Gold Find
+
+
+#####Core
+Dump as many points as you need into Movement Speed to reach 25% and then put the rest into Strength.
+#####Offense
+Max out everything in the following order: Cooldown Reduction &gt; Critical Hit Damage &gt; Critical Hit Chance &gt; Attack Speed
+#####Defense
+Max out everything in the following order: Resist All &gt; Life% &gt; Armor &gt; Life Regeneration
+#####Utility
+Max out everything in the following order: Area Damage &gt; RCR &gt; Life on Hit &gt; Gold Find
+
+## 4. Playstyle and Tips
+The most important part in playing a Condemn Crusader boils down to this:
+
+
+* Movement
+* Condemn Cast Timing
+
+**Movement**
+
+With *Condemn - Vacuum*, you will constantly be pulling mobs on top of you and moving on to the next pack of white mobs while everything you are pulling dies. This is how you can clear a high grift with over 8 minutes remaining, though that requires high density of good mobs.
+
+The important part is learning how to move while casting *Condemn - Vacuum* and not getting stuck. If you walk in a straight line you will pull from every direction and lock yourself in usually. The trick to solving this is to approach the mobs from the side in an alternating pattern, this generally results in moving in an S-shape. By moving in such a way you always keep one path open to move on to the next group of mobs. This takes time to learn but generally comes naturally to a lot of players.
+
+**Condemn Cast Timing**
+
+The legendary affix from *Frydehr's Wrath* removes the cooldown of *Condemn*, however it's still on an internal cooldown of roughly 0.5-0.6 seconds. For maxing out your damage it is critical that you learn how to time your *Condemn* casts, this is also a skill that will come naturally. If you keep spamming it you'll notice that your skill will be off-cooldown for a bit before it casts again, if you time it perfectly it instantly transitions from off-cooldown to on-cooldown. This way you can pump out ~90 casts/minute. Mastering this is critical for a Condemn Crusader. It's not as difficult as it sounds, after a while it will be complete muscle memory.
+
+In the current iteration of the 2.2 PTR the global cooldown is removed.
+
+**Elite Packs**
+
+Don't stop to try and kill elite packs, especially not Rare Packs (yellow). Your single-target is too bad to make them worth your time. If they have nasty affixes try to avoid them all together, if they have easy affixes you can pull them along with your group of white mobs and they will eventually die from collateral damage. If a pack has nasty affixes like Jailer, Thunderstorm, Mortar or Waller + Frozen Pulse I would not recommend dragging them along for the collateral damage method.
+
+If you find one or more elite packs near a beneficial pylon (Conduit, Shield, Power) you can try to nuke them down quickly, even better if you can drag some white mobs along. If you are already far on progression you might want to save the pylon for the boss though (especially Power)
+
+**Rifts**
+
+For the Rift Map the best one is a map where you have a lot of freedom to move such as the Silver Spire map and the Core of Arreat map.
+
+For the Rift Mobs your best bet is Unburied + Khazra and Zombies, both of these are easy to kill and give a lot of progression.
+
+I like to tier my Guardians as follows:
+
+**Stonesinger Tier**
+
+&gt;* Stonesinger
+
+**Good**
+
+&gt;* Perendi
+* The Binder
+* Bone Warlock
+* Crusader King
+* The Chocker
+
+**Average**
+
+&gt;* Ember
+* Eskandiel
+* Perdition
+* Tethrys
+* Infernal Maiden
+* Erethon
+* Man Carver
+* Cold Snap
+* Agnidox
+
+**Bad**
+
+&gt;* Saxtris
+* Sand Shaper
+* Orlash
+
+**Terrible**
+
+&gt;* Ghom
+* Rime
+* Raiziel
+
+**Bloodmaw Tier**
+
+&gt;* Bloodmaw
+
+**Blighter Tier**
+
+&gt;* Blighter
+
+
+### Ending
+That's it. Thank you for reading and I hope you learnt something from this :)
+
+### Reddit Specific Notes
+
+&gt;* 3/2/2015 - First Draft Published
+* 3/2/2015 - Marked skills and items with cursive text, removed acronyms (new-player proof)
