@@ -11,7 +11,7 @@ For further explanation, see the gear setup section.
 Slot|Choice #1|Choice #2|Choice #3
 :-:|:-:|:-:|:-:|
 Head| Andariel's Visage|Leoric's Crown|Pride's Fall
-Shoulders|Pauldrons of Akkhan|-|-
+Shoulders|Ancient Craftable Shoulders|-|-
 Amulet|Hellfire Amulet|Immunity Amulet|Traveler's Pledge
 Chest|Cindercoat|Breastplate of Akkhan|-
 Bracers|Reaper's Wraps|Strongarm Bracers|Krelm's Buff Bracers
@@ -90,101 +90,56 @@ If you have Belt of the Trove, Bombardment is good for dealing with pesky enemie
 
 If you **do not** have belt of the trove, a generator will probably be your best choice. Even though your damage will be decreased by Hexing Pants while generating Wrath, you will still be generating wrath. 
 
-Personally I use Punish - Roar as a generator. If you feel you need more armor use Slash - Guard.
-
-This is where some people will vary depending on their playstyle. Viable choices are:
-
-
-&gt;* Shield Glare - Divine Verdict
-* Iron Skin - Flash
-* Iron Skin - Steel Skin
-* Judgement - Resolved
-
-*Iron Skin - Flash* is a very strong choice if you often get stuck while sucking in mobs with Vacuum. Flash lets you move through enemies unhindered clearing the way if you don't have Illusory Boots.
-
-*Iron Skin - Steel Skin* is for those who have problems surviving but not with movement.
-
-*Shield Glare - Divine Verdict* is for those who want more DPS and utility in the same slot. A well-timed Shield Glare can actually give a lot of survivability, especially when interrupting the Rift Guardian's attack.
-
-*Judgement - Resolved* is an option some people use because it's both a very strong buff and fits *Condemn - Vacuum* like a glove, however I am not a big fan of this as I feel Divine Verdict does the job better for providing offensive buffs.
+Personally I use Punish - Roar as a generator. If you feel you need more armor/toughness while building Wrath, use Slash - Guard.
 
 ##Passive Skills
 Passive skills are fairly self-explanatory, so I will not go too much in-depth, however it should be noted that a *Hellfire Amulet* is in my opinion the strongest option in an amulet slot, five passives for a Crusader is invaluable.
 
-**Indestructible**
+###Indestructible
 
-Obvious choice, a death in a GRift can ruin your time, and this combined with *Akarat's Champion - Prophet* makes it so you can take a lot of shit before you die.
+Easy choice for use in tandem with Akarat - Prophet. 
 
-**Finery**
 
-Before the Legendary Gem patch this was already a very strong choice, but now that an average Crusader has 10 gems socketed (or 11 if you have it in a shield) this is a gigantic boost in toughness and damage.
+###Finery
 
-**Long Arm of the Law**
+Since we'll be using three legendary gems with this build (ideally), Finery is a great choice. 
 
-Without this passive, *Laws of Valor - Unstoppable Force* becomes quite a bit weaker and you may encounter wrath issues.
+###Holy Cause
 
-**Heavenly Strength**
+10% damage boost. 
 
-Without Blade of Prophecy and Frydehr's Wrath you simply can't play this build, making *Heavenly Strength* required.
+###Heavenly Strength
 
-**Holy Cause**
+Absolutely necessary for this build. You need 2H + Shield for this to work. 
 
-A straight up 10% damage boost and free healing, arguably one of the strongest passives in the Crusader skill set.
+###Long Arm of the Law
 
-**To HF or not to HF**
+I prioritize this last as I have not yet focused on crafting Hellfire Amulets, but this is an important skill for you if you have Wrath issues or Toughness issues (if using Laws of Jusice). 
 
-If you do not have a Hellfire Amulet you will have to drop one of these passives. My personal preference is to drop Holy Cause and keep the comfortable wrath management of *Long Arm of the Law*. However, if you are very good at managing your wrath you can also drop Long Arm of the Law as pointed out by KFC (/u/TheHenanist)
+
 
 ## 2. Gear Setups
-The optimal setup for a Condemn build would be:
+The optimal setup for this build would be: 
 
+* Head: Andariel's Visage
+* Shoulders: Ancient Craftable Shoulders
+* Chest: Cindercoat
+* Gloves: Magefist
+* Bracers: Reaper Wraps
+* Belt: Belt of the Trove
+* Pants: Hexing Pants of Mr. Yan
+* Rings: Unity & SoJ (or Focus/Restraint)
+* Amulet: Hellfire
+* Weapon: Blade of Prophecy
+* Shield: Frydehr's Wrath
 
-&gt;* Full Akkhan Set
-* Vigilante Belt
-* 8% CDR Unity &gt; 8%CDR Holy SoJ&gt; 8% CDR Bul-Kathos's Wedding Band &gt; 8% CDR RoRG
-* Blade of Prophecy
-* Frydehr's Wrath
-* Hellfire Amulet
-* Strongarm Bracers
+For this setup, we are stacking all of the fire we can get (aside from BoP). 
 
-For this setup, you need perfect cooldown reduction rolls on everything. The general consensus is that a Holy *Stone of Jordan* will beat a *Bul-Kathos's Wedding Band* at the Rift Guardian, I can not test this however because I do not have a 8% CDR Holy *Stone of Jordan* with a socket.
-
-There are however a few viable variations on this setup, namely:
-
-**Illusory Boots setup**
-
-It's hard to move with *Condemn - Vacuum* sometimes, and *Illusory Boots* will solve this problem. The setup now changes so that:
-
-
-&gt;* 5-piece Akkhan
-* Illusory Boots
-* 8% CDR Unity + 8% CDR RoRG
-
-This setup allows you to move freely, increasing both your survivability and effective damage.
-
-**Leoric's Crown + Witching Hour setup**
-
-This is the setup with which I reached my latest top clear. I am not running this because I believe it's superior, but because it's the gear I have right now. With a good *Leoric's Crown* you can drop *Vigilante Belt* for a *Witching Hour* for a noticeable DPS increase (in my case ~12%). The setup now changes so that:
-
-
-&gt;* 5-piece Akkhan
-* Leoric's Crown
-* Witching Hour
-* 8% CDR Unity + 8% CDR RoRG
-
-You can also do this to drop cooldown reduction elsewhere, like on your rings or shield.
-
-Personally I prefer the *Leoric's Crown* setup over the *Illusory Boots* setup in terms of killing power on a good map. *Illusory Boots* is however a safer bet on the survivability side.
-
-**Amulets**
-
-Thanks to KFC for pointing this one out, I completely forgot about *The Flavor of Time* in the first write-up of this guide. Personally I still believe that a Hellfire Amulet is stronger than a *Flavor of Time*, though I can't say I have tested it. If you have a good *Flavor of Time* it is definitely a very strong option as you can use the extra primary to drop CDR from a different slot like a belt or ring for CHD.
-
-I suggest *Xephirian Amulet* because it is, for me, the most helpful immunity necklace in the game. It is however a stepping-stone to getting a better item. Any other good necklace will still do.
+Let's talk about gear priorities. 
 
 ##Priorities
 
-**Regular Gems**
+###Regular Gems
 
 Ruby &gt; Diamond
 If you have trouble surviving considering switching two gems from your pants to all res gems. (thanks to /u/Octopotamus5000 for reminding me)
